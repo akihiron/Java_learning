@@ -10,6 +10,6 @@
 
 
 
-[Uiautomator]:　../../python_leaning/readme.md "Uiautomator.jar"
+[Uiautomator]:　https://github.com/akihiron/python_leaning/blob/master/readme.md "Uiautomator.jar"
 [Java_decompile]: http://google.com/        "Google"
 
