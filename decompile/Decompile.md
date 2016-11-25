@@ -6,7 +6,7 @@
 <http://totech.hateblo.jp/entry/2015/02/19/145004>
 
 目標としてはUiautomator.jarの中身に何が記述されているかを知ることでね
-Uiautomator.jar[Uiautomator][]に関してはこちらを参照してください
+[Uiautomator.jar][Uiautomator]に関してはこちらを参照してください
 
 
 
