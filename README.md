@@ -3,5 +3,5 @@
 ###目次  
 ###1.classファイルのデコンパイル[Java_decompile][]
 
-[Java_decompile]: master/decompile        "decompile"
+[Java_decompile]: /Decompile.md        "decompile"
 
